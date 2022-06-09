@@ -1,0 +1,1 @@
+{"version":3,"file":"types.js","sourceRoot":"","sources":["../../../../lib/modules/manager/helm-values/types.ts"],"names":[],"mappings":"","sourcesContent":["export type HelmDockerImageDependency = {\n  registry?: string;\n  repository: string;\n  tag: string;\n};\n"]}

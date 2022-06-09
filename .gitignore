@@ -1,7 +1,7 @@
 /node_modules
 /config.js
 /coverage
-/dist
+# /dist
 /tmp
 .DS_Store
 .cache

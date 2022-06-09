@@ -1,0 +1,1 @@
+{"version":3,"file":"types.js","sourceRoot":"","sources":["../../../../lib/modules/manager/regex/types.ts"],"names":[],"mappings":"","sourcesContent":["export interface ExtractionTemplate {\n  groups: Record<string, string>;\n  replaceString: string | undefined;\n}\n"]}
